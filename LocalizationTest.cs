@@ -1,7 +1,7 @@
 using UnityEngine;
 using Scripts.Localization;
 
-public class LocalizationTest : MonoBehaviour
+public sealed class LocalizationTest : MonoBehaviour
 {
     public void Initialize()
     {
