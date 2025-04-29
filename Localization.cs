@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace Scripts.Localization
 {
-    public class Localization
+    public sealed class Localization
     {
         private Dictionary<string, string> _language = new Dictionary<string, string>();
 
