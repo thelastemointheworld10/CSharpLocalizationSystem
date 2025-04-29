@@ -40,4 +40,4 @@ public class LocalizationTest : MonoBehaviour
 }
 ```
 # Result:
-![Снимок экрана 2025-04-29 150930](https://github.com/user-attachments/assets/e925235b-03b1-458b-a0e8-7ebeeb7a751d)
+![result](https://github.com/user-attachments/assets/ffd33daf-063c-4463-b3f3-bbb8d69c0e05)
